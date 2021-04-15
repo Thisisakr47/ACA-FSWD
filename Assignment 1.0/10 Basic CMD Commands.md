@@ -43,5 +43,5 @@ To launch an *.exe* file(application), simply navigate to the folder containing 
 ## HELP
 To access help in the Command Prompt, we have to type the help command and then press Enter.</br>
 ************************************
-***Relevant Links***
+### Relevant Links
 https://www.digitalcitizen.life/command-prompt-how-use-basic-commands/
