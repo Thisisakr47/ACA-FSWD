@@ -1,11 +1,11 @@
 # **ACA-FSWD-2021**
-*Mentor* : [Kartikeya Gupta](https://github.com/kartikcode)
+**Mentor** : [Kartikeya Gupta](https://github.com/kartikcode)
 
 ## **AIM**
 
 The aim of this project is to learn *Full-Stack Web Development* from scratch.
 *****************************
-### **What will we learn**
+### **What Will We Learn**
 
 - **Front-End** 
   - HTML
@@ -26,5 +26,5 @@ The aim of this project is to learn *Full-Stack Web Development* from scratch.
    - To create a proper documentation on *CMD Commands* learned so far.
    - To write a short discription on *Clientside*, *Serverside*, *HTTP Protocols*, *HTTP vs HTTPS*, *Frameworks vs Libraries*.
    - To create a new branch by the name of *Alternative* and add some random feature/code/file to it.
-   - Click [here](https://github.com/Thisisakr47/ACA-FSWD-2021/tree/main/Assignment%201.0) to view *Assignment 1.0*.
+   - To checkout my *Assignment 1.0* click [here](https://github.com/Thisisakr47/ACA-FSWD-2021/tree/main/Assignment%201.0).
 
