@@ -36,7 +36,7 @@ The DEL (Delete) is used to delete *files* from the folders you have created. To
 This command allows us to delete *folders*.</br>
 *Example - **rd IITK** will delete this folder with all its contents(if present) completely.*</br>
 
-## LAUNCH AN APP
+## Launch an APP
 To launch an *.exe* file(application), simply navigate to the folder containing the .exe file and the program’s name.</br>
 *Example - **IITK.cpp** will launch a this C++ executable file named as "IITK".</br>
 
