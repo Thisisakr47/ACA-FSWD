@@ -7,7 +7,8 @@ This command enables us to change the current directory or in simple words enabl
 ## DIR (Directory)
 This command enable us to view the contents(files) of a *folder*. 
 *Example - If you want to see contents of folder named "IITK", navigate to the folder using CD command and type **"dir"**.*</br>
-To view :- hidden folders use *dir /a*</br>
+To view :-</br> 
+           hidden folders use *dir /a*</br>
            hidden files   use *dir /a:h*</br>
            hidden dir     use *dir /a:d*</br>
 
